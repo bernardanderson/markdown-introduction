@@ -35,3 +35,6 @@ var seeMultipleLines;
 
 [The text for the link, parentheses for the actual http link](https://www.google.com)
 
+> For images you need to push the image to github and then link to the RAW  
+> github image link  
+![This is for the alternate text](https://raw.githubusercontent.com/bernardanderson/markdown-introduction/master/screenshots/Screenshot%20from%202016-02-29%2020%3A13%3A14.png)
